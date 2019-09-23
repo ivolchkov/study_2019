@@ -1,7 +1,7 @@
 package lesson5.solid;
 
 public interface Service {
-    //UserService
+    //StudentService
     void registrate(User user);
 
     void login(String password, String login);
